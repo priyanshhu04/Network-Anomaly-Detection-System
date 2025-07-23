@@ -3,7 +3,11 @@
 This project implements a **network intrusion detection system** using **unsupervised machine learning models** on the **KDD Cup 1999 dataset**. The goal is to detect anomalies or intrusions in network traffic data with minimal labeled data.
 
 ---
+## 🚀 Try the App
 
+**[🔗 Click here to use the app](https://network-anomaly-detection-system-csi.streamlit.app/)** 
+
+---
 ## Features
 
 -  **Dataset**: KDD Cup 1999 (10% subset)
